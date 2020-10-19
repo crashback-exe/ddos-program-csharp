@@ -10,9 +10,7 @@ Feel free to use it for every purpose... :P
 `mono Program.exe`
 
 ### Windows
-======
- Just double click the fucking file
+Just double click the fucking file
  
 ### Mac
-======
 I'm poor, i have no idea :joy:
